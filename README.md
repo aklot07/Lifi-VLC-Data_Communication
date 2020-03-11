@@ -1,1 +1,2 @@
-# super-saiyan
+# Lifi-VLC-Data_Communication
+The working model of a Visible Light Communication prototype has been implemented successfully between two personal laptops. The system designed here is capable of transmitting 'any type of data' (txt, img, audio, video) by reading the file in text format and reverting it back to original file in the receiver end. The system achieves a distance up to 15 centimeters with no errors at a speed of 250 kilobits per second. 
